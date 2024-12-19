@@ -15,7 +15,7 @@ This repository contains the implementation of SpLPG, a distributed graph neural
 [![](https://img.shields.io/badge/DGL-1.1.0-blue)](https://www.dgl.ai/pages/start.html)
 [![](https://img.shields.io/badge/CUDA-11.8-green)](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 
-GPU versions of [DGL](https://www.dgl.ai/pages/start.html) are required to run SpLPG. Please check its official website for installation.
+GPU version of [DGL](https://www.dgl.ai/pages/start.html) are required to run SpLPG. Please check its official website for installation.
 
 ## Installation
 
